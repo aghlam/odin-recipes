@@ -7,5 +7,6 @@ Skills demonstrated include:
 - Titles/headings
 - Lists
 - Images
-- Links
+- Links to other pages
+- Multi-tiered directories
 - Paragrahs
